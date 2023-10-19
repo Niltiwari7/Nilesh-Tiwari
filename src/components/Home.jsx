@@ -50,7 +50,7 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a href="mailto:official.6packprogrammer@gmail.com">Contact me</a>
+            <a href="mailto:nilesh.tiwari2021@vitstudent.ac.in">Contact me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
