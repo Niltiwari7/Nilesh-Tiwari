@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title":"Elliptical Curve Calculator",
+      "description": "The Elliptical Curve Calculator is an online tool that helps users perform mathematical operations and calculations related to elliptic curves. ",
+      "url": "https://elliptical-curve-website-project.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/18802724/pexels-photo-18802724/free-photo-of-elliptical-curve-calculator.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+
+    {
+     
+      "title": "Real Time weather Analyzer ",
+      "description": "This website provides live  weather information, ensuring users have access to real-time weather updates for their location. It offers the accurate weather data available online.",
+      "url": "https://niltiwari7.github.io/Real-time-Weather-Analyzer/",
+      "imgSrc": "https://images.pexels.com/photos/18802879/pexels-photo-18802879/free-photo-of-weather.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+     
+      "title": "Quote Generator",
+      "description": "The Quote Generator is a user-friendly web tool, instantly delivering random quotes from the Quotable API and enabling easy sharing on Twitter. ",
+      "url": "https://niltiwari7.github.io/Quote-Website/",
+      "imgSrc": "https://images.unsplash.com/photo-1697686698346-f91c074fa0d3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D"
+    }
+
+    
+  ]
+ 
+  
+}
