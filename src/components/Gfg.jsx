@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Gfg = ({ width, height }) => {
+const Gfg = ({ width, height }) => {
   return (
     <div>
         <img
@@ -12,3 +12,5 @@ export const Gfg = ({ width, height }) => {
     </div>
   )
 }
+
+export default Gfg
