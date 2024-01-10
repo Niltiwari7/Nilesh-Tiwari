@@ -2,7 +2,7 @@ import React from 'react';
 import {   IoLogoLinkedin} from 'react-icons/io';
 import LeetCodeIcon from './LeetCodeIcon';
 import { FaGithub } from 'react-icons/fa';
-
+import Gfg from './Gfg'
 const Footer = () => {
   return (
     <footer className="footer">
@@ -29,8 +29,8 @@ const Footer = () => {
           </a>
         </li>
         <li className="social-icon__item">
-          <a className="social-icon__link" href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/" target='_blank'>
-            <Gfg.jsx />
+          <a className="social-icon__link" href="https://auth.geeksforgeeks.org/user/nt465638" target='_blank'>
+            <Gfg/>
           </a>
         </li>
 
