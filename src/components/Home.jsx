@@ -6,9 +6,6 @@ import me from "../assets/images__1_-removebg-preview.png";
 
 const Home = ({ ratio }) => {
  
-
- 
-
   const animations = {
     h1: {
       initial: {
@@ -59,7 +56,7 @@ const Home = ({ ratio }) => {
                  </div>
       </section>
       <section>
-        <img src={me} alt="Abhishek" />
+        <img src={me} alt="Nilesh Tiwari" />
       </section>
     
     </div>

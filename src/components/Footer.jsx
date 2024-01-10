@@ -28,6 +28,13 @@ const Footer = () => {
             <IoLogoLinkedin />
           </a>
         </li>
+        <li className="social-icon__item">
+          <a className="social-icon__link" href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/" target='_blank'>
+            <Gfg.jsx />
+          </a>
+        </li>
+
+        
        
       </ul>
       <ul className="menu">
