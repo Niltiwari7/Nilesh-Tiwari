@@ -4,7 +4,7 @@ const Gfg = ({ width, height }) => {
   return (
     <div>
         <img
-      src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks"
+      src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
       alt="GeeksforGeeks Logo"
       width={width}
       height={height}

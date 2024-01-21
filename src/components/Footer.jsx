@@ -50,7 +50,7 @@ const Footer = () => {
           <a className="menu__link" href="#contact">Contact</a>
         </li>
       </ul>
-      <p>&copy;2023 Nilesh Tiwari | All Rights Reserved</p>
+      <p>&copy;2024 Nilesh Tiwari | All Rights Reserved</p>
     </footer>
   );
 };
