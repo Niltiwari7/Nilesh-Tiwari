@@ -47,7 +47,7 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a href="mailto:nilesh.tiwari2021@vitstudent.ac.in">Contact me</a>
+            <a href="mailto:nt465638@gmail.com">Contact me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
